@@ -99,7 +99,7 @@
 <!-- START_COMMIT_TABLE -->
 | Name | W1 (11.17) | W2 (11.24) | W3 (12.01) | W4 (12.08) | W5 (12.15) | W6 (12.22) | W7 (12.29) | W8 (01.05) |
 | ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| [DeFi/CauchyK9](https://github.com/qingoba/PKUBA-Colearn-25-Fall/blob/main/DeFi/CauchyK9.md) |   | | | | | | | |
+| [DeFi/CauchyK9](https://github.com/qingoba/PKUBA-Colearn-25-Fall/blob/main/DeFi/CauchyK9.md) | ✅ | | | | | | | |
 | [Afterglow36](https://github.com/qingoba/PKUBA-Colearn-25-Fall/blob/main/Afterglow36.md) |  ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
 | [miyosep](https://github.com/qingoba/PKUBA-Colearn-25-Fall/blob/main/miyosep.md) |  ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
 | [Week1](https://github.com/qingoba/PKUBA-Colearn-25-Fall/blob/main/Week1.md) |   | | | | | | | |
@@ -120,6 +120,7 @@
 | [DeFi/billyoftea](https://github.com/qingoba/PKUBA-Colearn-25-Fall/blob/main/DeFi/billyoftea.md) | ✅ | | | | | | | |
 | [Onchain-data/Turing7777](https://github.com/qingoba/PKUBA-Colearn-25-Fall/blob/main/Onchain-data/Turing7777.md) |   | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
